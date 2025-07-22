@@ -1,2 +1,2 @@
 # icarus
-a flight controller for a jet engine powered indigenous UAV.
+Though thou art far, thy wings are near.
